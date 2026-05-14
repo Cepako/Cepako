@@ -2,9 +2,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-dragan02/)
 
-I am a **23-year-old Fullstack Developer** passionate about building modern web applications. Currently finishing my **Engineering degree** at the **Lublin University of Technology** (4th year).
-
-All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+I am a **Fullstack Developer** passionate about building modern web applications. I hold a Bachelor of Engineering (BEng) in Computer Science from the Lublin University of Technology.
+I build all my coding projects from the ground up—from initial planning and system design all the way to solving real-life problems with clean code.
 
 - 🧠 I’m currently learning **LangChain & LangGraph** to build AI-driven solutions
 - 🤝 Connect with me on **[LinkedIn](https://www.linkedin.com/in/sebastian-dragan02/)**
