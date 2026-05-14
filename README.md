@@ -26,6 +26,7 @@ All coding projects are built from the ground up, from planning and designing al
 
 **Frontend**
 <br>
+<img src="https://cdn.simpleicons.org/nextdotjs/000000" width="40" height="40" alt="Next.js" style="margin: 5px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="React" style="margin: 5px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind" style="margin: 5px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="40" height="40" alt="Redux" style="margin: 5px;" />
@@ -65,6 +66,7 @@ All coding projects are built from the ground up, from planning and designing al
 
 **DevOps, Testing & Tools**
 <br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="40" height="40" alt="Kubernetes" style="margin: 5px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" style="margin: 5px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/podman/podman-original.svg" width="40" height="40" alt="Podman" style="margin: 5px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git" style="margin: 5px;" />
